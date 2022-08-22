@@ -1,0 +1,643 @@
+
+
+.container {
+    width: 80px; 
+    height: 130px;
+    border: 1px solid gray;
+    margin-top: 5px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+  #off {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.red {
+    background-color: rgb(184, 184, 8);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  }
+  #b {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #i {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #aa {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #iii {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #uuu {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ooo {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ee {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #aee {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #aii {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #cc {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #caa {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #kamu {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #akan {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #sudah {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bakso {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #tusuk {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #mandir {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bik {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #brik {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #brok {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bret {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ert {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #urt {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ngik {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ngok {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #cic {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #coc {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ic {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #caiiii {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bab {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bae {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #babi {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #babo {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bir {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bit {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bot {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #cik{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  #cok{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #crik{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #crok{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+   
+  #dik{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+   
+  #dok {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #diik {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #doook {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #zz {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #yy {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ww {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #vv {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #xx {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #mamang {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #tt {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  
+  #jj {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #kk {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #ll{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #mm {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #nn {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #butut {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #baheula {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #suzuki {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #toyota {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #toyota {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+    #toyota {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #hatori{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #kursi{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  #akuu{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+    
+  #punggung{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #kau{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+     
+  #punggungg{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+     
+  #howoo{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #salahku{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ibuku{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #rundung{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ratna{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #pilih{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #biji{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #muka{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #wuh{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #ratnaa{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #piliih{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #bijinya{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  #cuma{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #sama{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #cumaa{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #samaa{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #kenapaa{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #eway{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #bangsul{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #duudi{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #dudii{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #is{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #iam{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #too{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #tempe{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #daging{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #beruang{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #susu{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #lang{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #belalang{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #hentuy{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #kny{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #gelo{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #isi{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+  #nurul{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+  }
+
+
+
+
+
+
+
